@@ -10,4 +10,6 @@
 
 <p align="left">https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Algoritmo-e-Programa%C3%A7%C3%A3o/Primeira-Lista </p>
 
+<h2 align="left"> Laboratório de Técnicas de Programação</h2>
 
+<p align="left">...</p>
