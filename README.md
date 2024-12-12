@@ -8,13 +8,23 @@
 
 <h2 align="left"> Algoritmo e Programação</h2>
 
+###
+
 <p align="left">https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Algoritmo-e-Programa%C3%A7%C3%A3o/Primeira-Lista </p>
+
+###
 
 <h2 align="left"> Laboratório de Técnicas de Programação</h2>
 
+###
+
 <p align="left">https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Laborat%C3%B3rio-de-T%C3%A9cnicas-de-Programa%C3%A7%C3%A3o</p>
 
+###
+
 <h2 align="left"> Estrutura de Dados I</h2>
+
+###
 
 <p align="left">...</p>
 
