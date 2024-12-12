@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Nesse repositório estarão todos os exercícios realizados na linguaem em C, ordenado por cada disciplina que tive na faculdade </p>
+<p align="left"> Nesse repositório estarão todos os exercícios realizados na linguaem em C, ordenado por cada disciplina que tive na faculdade de Engenharia da Computação </p>
 
 ###
 
