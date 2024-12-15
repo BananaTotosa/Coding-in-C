@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Algoritmo-e-Programa%C3%A7%C3%A3o/Primeira-Lista </p>
+[*Acesse a disciplina clicando aqui*](https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Algoritmo-e-Programa%C3%A7%C3%A3o/Primeira-Lista)
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Laborat%C3%B3rio-de-T%C3%A9cnicas-de-Programa%C3%A7%C3%A3o</p>
+[*Acesse a disciplina clicando aqui*](https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Laborat%C3%B3rio-de-T%C3%A9cnicas-de-Programa%C3%A7%C3%A3o)
 
 ###
 
@@ -26,5 +26,5 @@
 
 ###
 
-<p align="left">...</p>
+[*Acesse a disciplina clicando aqui*](https://github.com/ViniciusHenriqueOliveira/Coding-in-C/tree/main/Estrutura-de-Dados-I)
 
