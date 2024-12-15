@@ -1,3 +1,5 @@
+//Considere o programa de Árvore de Busca utilizado na Aula (04) e, implemente um Menu para tornar possível o usuário escolher que tipo de operação ele deseja realizar.Realize o teste de cada funcionalidade do Menu, considerando árvores de diversos tamanhos.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "ArvoreBinaria.h"
